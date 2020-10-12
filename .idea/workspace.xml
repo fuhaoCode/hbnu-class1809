@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/CreateDeleteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/CreateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/DeleteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/OutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PrintFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/class09/cn/dingli/edu/exception/ArrayIndexOutOfBoundsExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/class09/cn/dingli/edu/exception/ArrayIndexOutOfBoundsExceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/class09/cn/dingli/edu/practice/SortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/class09/cn/dingli/edu/practice/SortString.class" afterDir="false" />
-    </list>
+    <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+            <state relative-caret-position="263">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -223,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602489333565" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602489587766" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -361,18 +349,18 @@
       <workItem from="1602338682894" duration="1416000" />
       <workItem from="1602429566812" duration="2732000" />
       <workItem from="1602459361549" duration="866000" />
-      <workItem from="1602484048801" duration="4235000" />
+      <workItem from="1602484048801" duration="4566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56228000" />
+    <option name="totallyTimeSpent" value="56559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1552" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20013388" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" weight="0.20013388" />
       <window_info id="Structure" order="1" sideWeight="0.5031315" side_tool="true" weight="0.22304086" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,7 +391,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20013388" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20013388" />
       <window_info id="Structure" order="1" sideWeight="0.5031315" side_tool="true" weight="0.22304086" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -787,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        <state relative-caret-position="263">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
