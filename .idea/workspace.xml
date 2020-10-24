@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,8 @@
     <session id="-1487675482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -32,34 +32,34 @@
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="138" />
-          <entry key="properties" value="2" />
+          <entry key="java" value="139" />
+          <entry key="properties" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="138" />
-          <entry key="Properties" value="2" />
+          <entry key="JAVA" value="139" />
+          <entry key="Properties" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="50" />
-          <entry key="java" value="15191" />
-          <entry key="properties" value="9" />
+          <entry key="java" value="16112" />
+          <entry key="properties" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15191" />
-          <entry key="Properties" value="9" />
+          <entry key="JAVA" value="16112" />
+          <entry key="Properties" value="154" />
           <entry key="VTL" value="50" />
         </counts>
       </usages-collector>
@@ -70,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="420">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="16" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="868">
               <caret line="31" column="39" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,14 +91,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
+            <state relative-caret-position="308">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="74" column="52" lean-forward="true" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -119,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/exception/NullPointerExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/exception/IOExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/exception/DefineExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/exception/TestDefineExceptionDemo.java" />
@@ -166,10 +186,11 @@
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/OracleJdbc.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/SqlServerJdbc.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JavaProgrammer.java" />
-        <option value="$PROJECT_DIR$/src/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest01.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest02.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java" />
       </list>
     </option>
   </component>
@@ -223,7 +244,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,12 +277,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603417076937" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603439946275" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/mysql-connector-java-8.0.12.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -289,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JdbcTest03">
+  <component name="RunManager" selected="Application.JdbcTest04">
     <configuration name="JavaProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JavaProgrammer" />
       <module name="class09" />
@@ -342,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.reflect.ReflectTest" />
+    <configuration name="JdbcTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest04" />
       <module name="class09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.dingli.edu.reflect.*" />
+          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReflectTest" />
       <item itemvalue="Application.JavaProgrammer" />
       <item itemvalue="Application.JdbcTest01" />
       <item itemvalue="Application.JdbcTest02" />
       <item itemvalue="Application.JdbcTest03" />
+      <item itemvalue="Application.JdbcTest04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JdbcTest04" />
         <item itemvalue="Application.JdbcTest03" />
         <item itemvalue="Application.JdbcTest02" />
         <item itemvalue="Application.JdbcTest01" />
         <item itemvalue="Application.JavaProgrammer" />
-        <item itemvalue="Application.ReflectTest" />
       </list>
     </recent_temporary>
   </component>
@@ -411,18 +432,19 @@
       <workItem from="1603268204212" duration="8006000" />
       <workItem from="1603290697263" duration="74000" />
       <workItem from="1603368799242" duration="54000" />
-      <workItem from="1603410055640" duration="5360000" />
+      <workItem from="1603410055640" duration="5520000" />
+      <workItem from="1603428938069" duration="5949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94727000" />
+    <option name="totallyTimeSpent" value="100836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20844504" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" weight="0.17828418" />
       <window_info id="Structure" order="1" sideWeight="0.5031315" side_tool="true" weight="0.22304086" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,7 +453,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27793297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43435755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,7 +475,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20844504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" sideWeight="0.5031315" side_tool="true" weight="0.22304086" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,7 +484,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27793297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27793297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,13 +513,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/practice/SortString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/CreateFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -795,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JavaProgrammer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -811,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="420">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="16" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -821,7 +829,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="868">
           <caret line="31" column="39" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -831,8 +839,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
+        <state relative-caret-position="308">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="74" column="52" lean-forward="true" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

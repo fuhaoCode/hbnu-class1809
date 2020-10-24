@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * 删除数据库记录
+ * 更新与删除数据库记录
  *
  * @author 陈迪凯
  * @date 2020-10-23 9:21
