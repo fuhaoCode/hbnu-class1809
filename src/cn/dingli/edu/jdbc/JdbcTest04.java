@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.ResourceBundle;
 
 /**
- * 采用反射注册数据库驱动
+ * 采用反射注册数据库驱动，查询结果集的4中处理方式
  *
  * @author 陈迪凯
  * @date 2020-10-23 14:21
