@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest06.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +15,7 @@
     <session id="-1487675482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="14" />
           <entry key="project.open.time.13" value="1" />
@@ -52,13 +49,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="50" />
-          <entry key="java" value="17378" />
+          <entry key="java" value="17379" />
           <entry key="properties" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17378" />
+          <entry key="JAVA" value="17379" />
           <entry key="Properties" value="154" />
           <entry key="VTL" value="50" />
         </counts>
@@ -130,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="81" />
+            <state relative-caret-position="313">
+              <caret line="86" column="33" lean-forward="true" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,7 +221,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -298,12 +295,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603698641357" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603699792840" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest05.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -450,15 +447,15 @@
       <workItem from="1603368799242" duration="54000" />
       <workItem from="1603410055640" duration="5520000" />
       <workItem from="1603428938069" duration="5949000" />
-      <workItem from="1603692086744" duration="5314000" />
+      <workItem from="1603692086744" duration="6048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106150000" />
+    <option name="totallyTimeSpent" value="106884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.17828418" />
@@ -879,8 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="81" />
+        <state relative-caret-position="313">
+          <caret line="86" column="33" lean-forward="true" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
