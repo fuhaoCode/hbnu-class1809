@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,12 +21,12 @@
     <session id="-1487675482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="15" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
@@ -35,20 +35,20 @@
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="147" />
+          <entry key="java" value="154" />
           <entry key="properties" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="147" />
+          <entry key="JAVA" value="154" />
           <entry key="Properties" value="4" />
         </counts>
       </usages-collector>
@@ -56,13 +56,13 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="ft" value="50" />
-          <entry key="java" value="19838" />
+          <entry key="java" value="20940" />
           <entry key="properties" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19838" />
+          <entry key="JAVA" value="20940" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="154" />
           <entry key="VTL" value="50" />
@@ -73,70 +73,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest07.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="84" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="392">
+              <caret line="14" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest08.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="224">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest09.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="79" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JDBCUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-448">
-              <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+            <state relative-caret-position="215">
+              <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-205">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -157,12 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/CreateFile.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/DeleteFile.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/CreateDeleteFile.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PrintFiles.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/OutputStreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamDemo2.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/WriterDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/ReaderDemo.java" />
@@ -208,6 +172,12 @@
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest09.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest10.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest12.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest11.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo01.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo02.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo03.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadTest.java" />
       </list>
     </option>
   </component>
@@ -260,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -284,7 +255,7 @@
               <item name="class09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="class09" type="b2602c69:ProjectViewProjectNode" />
@@ -294,14 +265,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Collections&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/util/Collections.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603881381367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604021863553" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest05.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -314,6 +284,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.dingli.edu.jdbc" />
       <recent name="cn.dingli.edu.InputOutputStream" />
     </key>
   </component>
@@ -329,46 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JdbcTest10">
-    <configuration name="JdbcTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest06" />
-      <module name="class09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest07" />
-      <module name="class09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest08" />
-      <module name="class09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadTest">
     <configuration name="JdbcTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest09" />
       <module name="class09" />
@@ -395,20 +327,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JdbcTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest11" />
+      <module name="class09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest12" />
+      <module name="class09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.multiThread.ThreadTest" />
+      <module name="class09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dingli.edu.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.JdbcTest06" />
-      <item itemvalue="Application.JdbcTest07" />
-      <item itemvalue="Application.JdbcTest08" />
       <item itemvalue="Application.JdbcTest09" />
       <item itemvalue="Application.JdbcTest10" />
+      <item itemvalue="Application.JdbcTest11" />
+      <item itemvalue="Application.JdbcTest12" />
+      <item itemvalue="Application.ThreadTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.JdbcTest12" />
+        <item itemvalue="Application.JdbcTest11" />
         <item itemvalue="Application.JdbcTest10" />
         <item itemvalue="Application.JdbcTest09" />
-        <item itemvalue="Application.JdbcTest08" />
-        <item itemvalue="Application.JdbcTest07" />
-        <item itemvalue="Application.JdbcTest06" />
       </list>
     </recent_temporary>
   </component>
@@ -454,18 +425,20 @@
       <workItem from="1603410055640" duration="5520000" />
       <workItem from="1603428938069" duration="5949000" />
       <workItem from="1603692086744" duration="6048000" />
-      <workItem from="1603872273518" duration="8211000" />
+      <workItem from="1603872273518" duration="9916000" />
+      <workItem from="1604015731817" duration="4563000" />
+      <workItem from="1604037832244" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115095000" />
+    <option name="totallyTimeSpent" value="121980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.1802949" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" sideWeight="0.5031315" side_tool="true" weight="0.22304086" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,8 +447,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8449721" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.76955307" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7206704" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -534,55 +507,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/InputStreamReaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PipedOutputStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PipedInputStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PipedStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/ReaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/GenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1036">
@@ -779,9 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="16" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -789,9 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="784">
           <caret line="31" column="39" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,9 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -809,9 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,9 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1568">
           <caret line="63" column="93" selection-start-line="63" selection-start-column="93" selection-end-line="63" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,36 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="58" column="83" lean-forward="true" selection-start-line="58" selection-start-column="83" selection-end-line="58" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="84" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,9 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#135536#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,30 +755,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest09.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="79" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="2240">
+          <caret line="84" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest10.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest08.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1260">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JDBCUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
-          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        <state relative-caret-position="1196">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="94" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
