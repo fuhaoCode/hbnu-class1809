@@ -7,25 +7,21 @@ package cn.dingli.edu.multiThread;
 public class Account implements Runnable {
 
     private double money;
+
     @Override
     public void run() {
-        while (true) {
-            synchronized (this) {
-                int i = 0;
-                for (i = 0; i < 3; i++) {
-                    try {
-                        Thread.sleep((int)Math.random()*100);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                    money += 1000;
-                    System.out.println(Thread.currentThread().getName() + "存入了1000\n" + "账户余额：" + money);
-                }
-                if (i == 3) {
-                    break;
-                }
-            }
 
+        for (int i = 0; i < 3; i++) {
+            try {
+                Thread.sleep((int) Math.random() * 1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            synchronized (this) {
+                money += 1000;
+                System.out.println(Thread.currentThread().getName() + "存入了1000\n" + "账户余额：" + money);
+            }
         }
     }
+
 }
