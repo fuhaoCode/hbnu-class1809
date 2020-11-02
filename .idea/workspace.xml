@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d936d87-25ea-4be8-a598-a687d7468088" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ProAndConTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Productor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,14 +39,16 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="161" />
+          <entry key="java" value="165" />
           <entry key="properties" value="4" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="161" />
+          <entry key="JAVA" value="165" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="4" />
         </counts>
       </usages-collector>
@@ -50,13 +56,13 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="ft" value="50" />
-          <entry key="java" value="21696" />
+          <entry key="java" value="22083" />
           <entry key="properties" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21696" />
+          <entry key="JAVA" value="22083" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="154" />
           <entry key="VTL" value="50" />
@@ -67,64 +73,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo04.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+            <state relative-caret-position="607">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadDemo05.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Productor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            <state relative-caret-position="140">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ThreadTest02.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Ticket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="448">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Account.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ProAndConTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/AccountTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/TicketTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="364">
+              <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -145,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/InputOutputStream/PipedStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/Generic.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/GenericTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/ArrayListDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/HeroesTest.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/Heroes.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/collection/HashSetTest.java" />
@@ -196,6 +179,10 @@
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Ticket.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/AccountTest.java" />
         <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Productor.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ProAndConTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Product.java" />
       </list>
     </option>
   </component>
@@ -288,7 +275,7 @@
     <property name="SearchEverywhereHistoryKey" value="Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Collections&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/util/Collections.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604044788680" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604300327817" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/dingli/edu/jdbc/JdbcTest05.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -317,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AccountTest">
+  <component name="RunManager" selected="Application.ProAndConTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.multiThread.AccountTest" />
       <module name="class09" />
@@ -331,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.jdbc.JdbcTest12" />
+    <configuration name="ProAndConTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dingli.edu.multiThread.ProAndConTest" />
       <module name="class09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.dingli.edu.jdbc.*" />
+          <option name="PATTERN" value="cn.dingli.edu.multiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,19 +371,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JdbcTest12" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadTest02" />
       <item itemvalue="Application.TicketTest" />
       <item itemvalue="Application.AccountTest" />
+      <item itemvalue="Application.ProAndConTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProAndConTest" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.ThreadTest02" />
         <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.JdbcTest12" />
       </list>
     </recent_temporary>
   </component>
@@ -445,12 +432,12 @@
       <workItem from="1603872273518" duration="9916000" />
       <workItem from="1604015731817" duration="4563000" />
       <workItem from="1604037832244" duration="6290000" />
-      <workItem from="1604296683598" duration="244000" />
+      <workItem from="1604296683598" duration="4112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127897000" />
+    <option name="totallyTimeSpent" value="131765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -465,7 +452,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35614526" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4594972" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.7206704" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -525,35 +512,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/IteratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/collection/Poker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/annotation.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/annotation/ElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="83" column="13" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/annotation/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
@@ -836,13 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/AccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -859,8 +810,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Account.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Productor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dingli/edu/multiThread/ProAndConTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
